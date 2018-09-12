@@ -1,0 +1,19 @@
+{
+  "name": "sensorcache",
+  "version": "0.0.1",
+  "description": "Provides a cache of most recent values for IoT sensors for use in Node-Red",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csmale/sensorcache.git"
+  },
+  "author": "Colin Smale <colin.smale@xs4all.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csmale/sensorcache/issues"
+  },
+  "homepage": "https://github.com/csmale/sensorcache#readme"
+}
